@@ -1,4 +1,4 @@
-# Welcome to 420-1B4
+# Welcome to Computerized Systems
 
 > This is the companion site for the 420-1B4 course.
 >
@@ -7,6 +7,8 @@
 > - notes
 > - labs
 > - exercises
+>
+> All content in this site will also be accessible via Lea
 
 
 ## How is this page made?
