@@ -167,6 +167,22 @@ For the amount of long-term storage space (assuming you only have one storage di
 
 <br>
 
+## Finding Specs (on MacOS)
+
+According to the [Apple's official documentation](https://support.apple.com/en-us/HT203001):
+
+1. Choose Apple menu  > About This Mac.
+
+This opens an overview of your  Mac, including your:
+
+- Mac model,
+- processor,
+- memory,
+- serial number,
+- [version of macOS](https://support.apple.com/kb/HT201260). 
+
+<br>
+
 ## Shopping for a Computer
 
 Have you ever shopped for a computer?
