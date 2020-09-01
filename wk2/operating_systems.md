@@ -1,0 +1,161 @@
+# Intro to Operating Systems
+
+In this section we will take a look at how the operating system software interacts and controls the hardware.
+
+Previously we had defined **software** as: *any **set of instructions** that tells the hardware **what to do** and **how to do it**.*
+
+Let's focus on two types of software: **the operating system and application software**
+
+<br>
+
+**Operating System / System Software**
+
+>  An operating system is a set of programs that:
+>
+> - Run inside the hardware,
+> - manage the hardware resources,
+> - host application software
+
+<br>
+
+[![Modern Mobile Operating Systems](https://cloud.addictivetips.com/wp-content/uploads/2011/05/Modern-Mobile-Operating-Systems.jpg)
+
+<p align="center"><a href="https://www.addictivetips.com/mobile/an-introduction-to-modern-mobile-operating-systems/"><em>Examples of Mobile Operating Systems</em></a></p>
+
+<br>
+
+**Application Software**
+
+> Programs that run and execute instructions inside the operating system.
+
+<br>
+
+![image-20200901082708524](assets/image-20200901082708524.png)
+
+<p align="center"><a href="#"><em>Hosting relationship between Hardware and Software</em></a></p>
+
+<br>
+
+## The Computer File System
+
+Every single program, image, video, document, etc, exists in your computers as file located somewhere in the File System.
+
+<br>
+
+![image-20200901092446198](assets/image-20200901092446198.png)
+
+<br>
+
+The computer file system is organized as a trees, where the origin of each tree is the **root directory**
+
+In Windows, the root directories are assigned a letter and usually represent a Storage Drive.
+
+<br>
+
+![img](https://lh4.googleusercontent.com/3A-mIwIp0jHutvcl8n3BFJZY10CDS48hYrEGI575Fzf7jDVzqPwIk1F8z8d5oSnEEiK3Pc7zgxV_1KHWKQdx1oU_e0T09Ismt8rnuiwcr434iYN7KCRO9B6hyJFEZW7i_M6bT-UrbUM)
+
+<p align="center"><a href="#"><em>Windows file system with four root directories (A:, C:, D:, F:)</em></a></p>
+
+<br>
+
+Files systems normally contain:
+
+- **Data** (the files)
+- **Directories** (folders)
+- **Metadata** (information about the data itself)
+  - File size
+  - File type (or file extension)
+  - Time modified
+
+<br>
+
+### File Types
+
+Each file can hold information in a multitude of different formats.
+
+For example, an image file stores image information in a completely different way than a text file.
+
+> To quickly distinguish between the different types files, we use a file extension at the end of each file type
+
+<br>
+
+Here are some examples of file types and their extensions:
+
+| **Images** | **Documents** | **Audio** | **Video** | Compressed files |
+| ---------- | ------------- | --------- | --------- | ---------------- |
+| .png       | .docx         | .mp3      | .mp4      | .rar             |
+| .jpeg      | .txt          | .wav      | .avi      | .zip             |
+| .gif       | .html         | .flac     | .webm     | .7z              |
+
+<br>
+
+### File Manager Software
+
+> A File Manager is an application software that helps us navigate, find, organize and manage files and folders in file system.
+
+Compare this to the way you organize your notes and important documents at home
+
+<br>
+
+<img src="https://lh5.googleusercontent.com/gymOX6nZMy2L6-nYlDQbM-CjxqVEDChqoUj0SD3yo_PFozcQNfIRovBcjqA4rF0cEb5A7j2DPwkyP2SSCQdo4rVn8gQFODck_29mMitRbPlnfwP8D8iudwnGPcMcWw42G3YsnlTbue0" alt="img" width="500" />
+
+<br>
+
+In macOS the file manager software is called **Finder**.
+
+In Windows the file manager is called **File Explorer**.
+
+<br>
+
+![image-20200901095244476](assets/image-20200901095244476.png)
+
+<br>
+
+### Showing file extensions
+
+By default File Explorer hides the file extensions. 
+
+![image-20200901101016192](assets/image-20200901101016192.png)
+
+<br>
+
+Microsoft choose to do this to simplify the user interface and not overwhelm new users.
+
+**If you would like to see the file extensions directly on File Explorer you have to enable it**
+
+Enabling file extensions is not necessary but it will allow you to better understand what kinds of files you are dealing with "under the hood".
+
+<br>
+
+<img src="./wk2/assets/image-20200901101710345.png" alt="image-20200901101710345" width="400" />
+
+<br>
+
+To enable the file extensions in File Explorer select the *View Menu* and click on the *File name extensions* check box.
+
+<br>
+
+![enable_extensions](assets/enable_extensions.gif)
+
+<br>
+
+## Compressed Files
+
+> Some files in the computer can be compressed in order to save space. 
+>
+> Compressed files are typically called **Zipped files**.
+
+<br>
+
+In order to compress a file you need a **File compressor program**. 
+
+Windows comes with a File Compressor program by default but you can choose to install other programs that achieve the same task.
+
+Here are some examples of the File Compression programs and their respective file formats:
+
+| Name of Compression Program | Compressed file type extension | Icon                                                         |
+| --------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| Windows Default Compressor  | .zip                           | ![image-20200901110933234](assets/image-20200901110933234.png) |
+| 7-Zip                       | .7z                            | ![image-20200901110948479](assets/image-20200901110948479.png) |
+| WinRAR                      | .rar                           | ![image-20200901110917754](assets/image-20200901110917754.png) |
+
