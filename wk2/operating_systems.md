@@ -159,3 +159,53 @@ Here are some examples of the File Compression programs and their respective fil
 | 7-Zip                       | .7z                            | ![image-20200901110948479](assets/image-20200901110948479.png) |
 | WinRAR                      | .rar                           | ![image-20200901110917754](assets/image-20200901110917754.png) |
 
+<br>
+
+### Zip and Unzip Files
+
+To zip (compress) or unzip (extract) files follow the instructions below:
+
+#### Compressing Files	
+
+1. Locate the file or folder that you want to zip.
+
+2. Right-click the file or folder, select **Send to**, and then select **Compressed (zipped) folder**.
+
+A new zipped folder with the same name is created in the same location.  To rename it, right-click the folder, select **Rename**, and then type the new name.
+
+<br>
+
+![zipping](assets/zipping.gif)
+
+<br>
+
+#### Extracting Files
+
+1. Locate the zipped folder that you want to unzip (extract) files or folders from.
+
+2. Do one of the following:
+
+- To unzip a single file or folder, open the zipped folder, then drag the file or folder from the zipped folder to a new location.
+
+- To unzip all the contents of the zipped folder, right-click the folder, select **Extract All**, and then follow the instructions.
+
+  <br>
+
+![extracting](assets/extracting.gif)
+
+<br>
+
+## Exercises
+
+In Lea, you will find a compressed file under Week 2. Please complete the following activity:
+
+1. Download the file: *Practice exercise - Compressing Files*
+2. Decompress it in a location of your choice
+3. Organize the files into folders:
+   - Create a main folder named *Practice1*
+   - Create a folder for each file type
+     - Ex.: Images, Videos, Documents
+4. Create and save an Excel file (empty)
+   - New -> Save As
+5. Compress the main folder *Practice 1*
+6. Upload the folder to Lea
