@@ -208,4 +208,4 @@ In Lea, you will find a compressed file under Week 2. Please complete the follow
 4. Create and save an Excel file (empty)
    - New -> Save As
 5. Compress the main folder *Practice 1*
-6. Upload the folder to Lea
+6. Upload the compressed folder to Lea
