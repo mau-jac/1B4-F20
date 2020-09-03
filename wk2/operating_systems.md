@@ -139,7 +139,7 @@ To enable the file extensions in File Explorer select the *View Menu* and click 
 
 <br>
 
-### File Properties
+### File Properties (new)
 
 To view in-depth information about a file you can open it's properties dialogue.
 
@@ -179,7 +179,7 @@ Here are some examples of the File Compression programs and their respective fil
 
 To zip (compress) or unzip (extract) files follow the instructions below:
 
-#### Compressing Files	
+#### Compressing Files
 
 1. Locate the file or folder that you want to zip.
 
@@ -209,7 +209,7 @@ A new zipped folder with the same name is created in the same location.  To rena
 
 <br>
 
-#### ⚠ Using Zipped "Folders"
+#### ⚠ Using Zipped "Folders" (new)
 
 > The contents inside a zipped file are READ-ONLY!
 >
@@ -222,6 +222,48 @@ In windows you have the ability to double click onto a zipped file and File Expl
 <br> This can be very misleading and stressful when working on assignments or tests.
 
 **Please get into the habit of always extracting a compressed file before working on it.**
+
+<br>
+
+## Creating Files and Folders (new)
+
+There are many ways to create new files and folders in Windows. We will cover two methods:
+
+### Using File Explorer
+
+1. Using File Explorer, navigate to the location where you would like to create your new file.
+2. Right-click on an empty area of the folder
+3. Choose "New"
+4. Choose the type of file or folder to be created.
+
+<br>
+
+> To create an application file such as Microsoft Excel or Word using this method, you need to make sure that the application is installed on your computer.
+>
+> Otherwise it will not be available.
+
+<br>
+
+![Animation of a new file being created from File Explorer ](assets/creating_new_files.gif)
+
+<br>
+
+### Using the Application
+
+It is also possible to create a new file of any type using the application to generate that file.
+
+The instructions below use Microsoft Excel but the process is similar in any application.
+
+1. Open the application
+2. Choose to create a new blank file
+3. In the application, find the "File" menu, typically located in the top-left of the screen.
+4. Choose "Save-as"
+5. Select the location where you would like to save your file and give it a file name.
+6. Click Save.
+
+<br>
+
+![animation of file being created from Excel application](assets/new_files_Excel.gif)
 
 <br>
 
