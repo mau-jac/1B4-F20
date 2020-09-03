@@ -195,6 +195,22 @@ A new zipped folder with the same name is created in the same location.  To rena
 
 <br>
 
+#### ⚠ Using Zipped "Folders"
+
+> The contents inside a zipped file are READ-ONLY!
+>
+> You will not be able to modify them without extracting first.
+
+<br>
+
+In windows you have the ability to double click onto a zipped file and File Explorer will show you the contents of the zipped file **as if you were inside a folder** - it's a trap!
+
+<br> This can be very misleading and stressful when working on assignments or tests.
+
+**Please get into the habit of always extracting a compressed file before working on it.**
+
+<br>
+
 ## Exercises
 
 In Lea, you will find a compressed file under Week 2. Please complete the following activity:
