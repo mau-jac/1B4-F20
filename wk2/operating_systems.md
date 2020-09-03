@@ -127,7 +127,7 @@ Enabling file extensions is not necessary but it will allow you to better unders
 
 <br>
 
-<img src="./wk2/assets/image-20200901101710345.png" alt="image-20200901101710345" width="400" />
+![image-20200901101710345](assets/image-20200901101710345.png ':size=400')
 
 <br>
 
@@ -136,6 +136,18 @@ To enable the file extensions in File Explorer select the *View Menu* and click 
 <br>
 
 ![enable_extensions](assets/enable_extensions.gif)
+
+<br>
+
+### File Properties
+
+To view in-depth information about a file you can open it's properties dialogue.
+
+From File Explorer, right-click on the file and select ***Properties***
+
+<br>
+
+![Open file properties](assets/file_properties.gif 'size=700')
 
 <br>
 
