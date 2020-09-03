@@ -163,13 +163,15 @@ In order to compress a file you need a **File compressor program**.
 
 Windows comes with a File Compressor program by default but you can choose to install other programs that achieve the same task.
 
+<br>
+
 Here are some examples of the File Compression programs and their respective file formats:
 
-| Name of Compression Program | Compressed file type extension | Icon                                                         |
-| --------------------------- | ------------------------------ | ------------------------------------------------------------ |
-| Windows Default Compressor  | .zip                           | ![image-20200901110933234](assets/image-20200901110933234.png) |
-| 7-Zip                       | .7z                            | ![image-20200901110948479](assets/image-20200901110948479.png) |
-| WinRAR                      | .rar                           | ![image-20200901110917754](assets/image-20200901110917754.png) |
+| Name of Compression Program               | Compressed file type extension |                             Icon                             |
+| ----------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+| Windows Default Compressor                |              .zip              | ![image-20200901110933234](assets/image-20200901110933234.png) |
+| 7-Zip                                     |              .7z               | ![image-20200901110948479](assets/image-20200901110948479.png) |
+| WinRAR (**not accepted for submissions)** |              .rar              | ![image-20200901110917754](assets/image-20200901110917754.png) |
 
 <br>
 
