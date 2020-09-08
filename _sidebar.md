@@ -8,3 +8,5 @@
 - [Operating Systems](wk2/operating_systems.md)
 - [Intro to Excel](wk2/intro_excel.md)
 
+**Week 3**
+- [Excel Equations](wk3/excel_formulas.md)
