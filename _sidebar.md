@@ -9,4 +9,4 @@
 - [Intro to Excel](wk2/intro_excel.md)
 
 **Week 3**
-- [Excel Equations](wk3/excel_formulas.md)
+- [Cell References & Functions](wk3/excel_formulas.md)
