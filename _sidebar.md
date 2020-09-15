@@ -10,3 +10,6 @@
 
 **Week 3**
 - [Cell References & Functions](wk3/excel_formulas.md)
+
+**Week 4**
+- [Standard Deviation & Charts](wk4/stdev_graphing.md)
