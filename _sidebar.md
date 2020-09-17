@@ -3,6 +3,7 @@
 
 **Week 4**
 - [Standard Deviation & Charts](wk4/stdev_graphing.md)
+- [Combo Graphs & Trendlines](wk4/graphs_advanced.md)
 
 **Week 3**
 - [Cell References & Functions](wk3/excel_formulas.md)
