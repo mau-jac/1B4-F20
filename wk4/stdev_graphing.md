@@ -18,15 +18,9 @@ When naturally occurring measurements happens mostly around one central value, w
 
 <br>
 
-## Observing Standard Deviation
-
-To observe standard deviation, let's run an experiment:
-
-> Please refer to the file "Wk4_group.xlsx" in Team's general channel
 
 
-
-## Standard Deviation in Excel
+### Standard Deviation in Excel
 
 Excel has multiple build-in equation for calculating the standard deviation:
 
@@ -53,8 +47,9 @@ Excel has multiple build-in equation for calculating the standard deviation:
 
 <br>
 
-> 📖 For this section of the notes please refer to the following resources from GCF Global
+> 📖 For this section of the notes please refer to the following resources
 >
-> - [Charts](https://edu.gcfglobal.org/en/excel/charts/1/)
+> - [Charts](https://edu.gcfglobal.org/en/excel/charts/1/)  from GCF Global
+> - [Create a chart from start to finish](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2) from Microsoft Support
 
 <br>
