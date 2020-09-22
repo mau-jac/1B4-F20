@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 5**
+- [Equation of a line](wk5/line_equation.md)
+
 **Week 4**
 - [Standard Deviation & Charts](wk4/stdev_graphing.md)
 - [Combo Graphs & Trendlines](wk4/graphs_advanced.md)
