@@ -56,4 +56,4 @@ Please refer to the files *Wk4_graphing_exercises.xlsx* available in Teams under
 1. Using the sheet **tables** create a Scatter chart of Hardness vs Thickness for the High compression force data.
 2. Add a linear trendline to the data
 3. Extract the Slope and y-intercept of the line
-4. Find what would be the thickness value of a table with hardness of 5.91N ?
+4. Find what would be the hardness value of table with a thickness value of 5.91N ?
