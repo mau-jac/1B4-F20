@@ -47,7 +47,7 @@ We can use Excel to calculate the area under a curve. To do this we use the foll
 
 <br>
 
-To see this, consider the following data points platted on a Scatter graph with smooth lines:
+Consider the following data points plotted on a Scatter graph with smooth lines:
 
 <br>
 
@@ -55,7 +55,7 @@ To see this, consider the following data points platted on a Scatter graph with 
 
 <br>
 
-We we tried to approximate the area of a small section of the diagram we would have the following:
+If we tried to approximate the area of a small section of the diagram we would have the following:
 
 <br>
 
