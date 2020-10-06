@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 7**
+- [Area under the Curve](wk7/area_under_curve.md)
+
 **Week 5**
 - [Equation of a line](wk5/line_equation.md)
 
