@@ -3,6 +3,7 @@
 
 **Week 7**
 - [Area under the Curve](wk7/area_under_curve.md)
+- [Sorting & Filtering](wk7/sorting_filtering.md)
 
 **Week 5**
 - [Equation of a line](wk5/line_equation.md)
