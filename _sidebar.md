@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 8**
+- [Conditional formating](wk8/conditional_formatting.md)
+
 **Week 7**
 - [Area under the Curve](wk7/area_under_curve.md)
 - [Sorting & Filtering](wk7/sorting_filtering.md)
