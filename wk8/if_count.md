@@ -91,4 +91,4 @@ The **COUNTIF** and **SUMIF formulas** are similar to **IF**. They will count an
 
 <br>
 
-In the SUMIF formula you can specify a rang to be summed that is different from the range to be compared for a certain condition.
+In the SUMIF formula you can specify a range to be summed that is different from the range to be compared against the condition.
