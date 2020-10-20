@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 9**
+- [Pivot Tables](wk9/pivot_tables.md)
+
 **Week 8**
 - [Conditional formating](wk8/conditional_formatting.md)
 - [Countif & Sumif](wk8/if_count.md)
