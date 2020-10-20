@@ -45,7 +45,7 @@ From the question being asked, try to identify:
 
 For example, if we wanted to answer the following question:
 
-**How much was sold by each salesperson on a monthly basis? **
+**How much was sold by each salesperson on a monthly basis?**
 
 <br>
 
