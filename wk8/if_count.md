@@ -65,15 +65,19 @@ There are a few comparison operators:
 
 ### Possible things to compare
 
-When using the comparison operators it's possible to compare:
+When using the operators above, it's possible to compare:
 
 - Text
 
-- - under quotation marks (eg. *“Sold”*)
+  - Must wrap text with double quotes (eg. *“Sold”*)
 
 - Numbers
 
 - Dates
+
+  - Must refer to a cell containing the date. You cannot add the data in the `=IF( )` formula.
+
+    ![image-20201022112004252](assets/image-20201022112004252.png)
 
 <br>
 
@@ -92,3 +96,17 @@ The **COUNTIF** and **SUMIF formulas** are similar to **IF**. They will count an
 <br>
 
 In the SUMIF formula you can specify a range to be summed that is different from the range to be compared against the condition.
+
+<br>
+
+> For `COUNTIF` and `SUMIF` **you must wrap the operator and the value  with double quotes**
+
+
+
+Using a date in the condition:
+
+```
+=COUNTIF(A1:A34, "<11/01/2020")
+```
+
+<br>
