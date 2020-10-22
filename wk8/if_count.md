@@ -110,3 +110,25 @@ Using a date in the condition:
 ```
 
 <br>
+
+### Wild Card
+
+Sometimes our conditions is that a cell contains only a keyword.
+
+For example, consider the following data from an store's inventory:
+
+<br>
+
+![image-20201022120022750](assets/image-20201022120022750.png)
+
+<br>
+
+If we wanted to count how many items match the keyword "Oak", the normal `COUNTIF` condition would not work. The text value of the cell changes every time.
+
+> The * symbol (asterisk) can be used as a wild card to assume any value.
+>
+> It works as a "joker" or "fill in the blank"
+
+To match any cell containing the text "Oak" we can perform the following `COUNTIF`:
+
+![image-20201022120640121](assets/image-20201022120640121.png)
