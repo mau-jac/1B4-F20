@@ -113,7 +113,7 @@ Using a date in the condition:
 
 ### Wild Card
 
-Sometimes our conditions is that a cell contains only a keyword.
+Sometimes our condition is that a cell contains a keyword.
 
 For example, consider the following data from an store's inventory:
 
