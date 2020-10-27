@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 10**
+- [Intro to Word](wk10/intro-word.md)
+
 **Week 9**
 - [Pivot Tables](wk9/pivot_tables.md)
 
