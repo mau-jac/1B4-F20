@@ -1,6 +1,6 @@
 # Introduction to MS Word
 
-Microsoft Word is a powerfull word-processing program.
+Microsoft Word is a powerful word-processing program.
 
 In this course we will assume that you are somewhat familiar with Word and we will focus on a few specific features.
 
@@ -21,7 +21,7 @@ If you are not already familiar with MS Word, please complete the following guid
 > 📖 For this section of the notes please refer to the following resources by Microsoft;
 >
 > - [Use Quick Styles](https://support.microsoft.com/en-us/office/video-using-styles-in-word-9db4c0f4-2754-4294-9758-c14a0abd8cfa) 
-> - [Editing Styles](https://support.microsoft.com/en-us/office/editing-styles-00ef3db1-871d-4cf2-af49-e9c7768d7934) 
+> - [Customize or create new styles](https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563)
 > - [Different Styles and Themes](https://support.microsoft.com/en-us/office/different-looks-with-styles-and-themes-64849596-2cd2-4459-9a75-e42727522021) 
 > - [Insert a table of contents](https://support.microsoft.com/en-us/office/insert-a-table-of-contents-882e8564-0edb-435e-84b5-1d8552ccf0c0) 
 > - [Format or customize a table of contents](https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-9d85eb9c-0b55-4795-8abb-a49885b3a58d) 
@@ -43,6 +43,3 @@ Download the Excel file *What is a kanban board.docx* available in Teams under W
 2. Enable the Navigation Pane in your document.
 3. Insert an automatic page of contents.
 4. Change the format of your table of contents to a different format (any)
-
-
-
