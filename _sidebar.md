@@ -3,6 +3,7 @@
 
 **Week 10**
 - [Intro to Word](wk10/intro-word.md)
+- [Tabs, footnotes & Images](wk10/tables-footnotes-images.md)
 
 **Week 9**
 - [Pivot Tables](wk9/pivot_tables.md)
