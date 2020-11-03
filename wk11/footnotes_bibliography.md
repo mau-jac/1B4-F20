@@ -17,11 +17,9 @@ In the section we will learn how to insert and manage these two elements in MS W
 > - [Create a bibliography, citations, and references](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) by Microsoft
 > - (YouTube) [Creating a Bibliography in Word](https://www.youtube.com/watch?v=ty8ToryyWgA) [6:28 mins] by Everyday Office
 
-<br>
-
 ### For mac users
 
-- [Add footnotes and endnotes in Word on Mac and iOS](https://support.microsoft.com/en-us/office/ add-footnotes-and-endnotes-in-word-on-mac-and-ios-a58d1685-94f6-43f5-ba26-aa15aa62c6ed)
+- [Add footnotes and endnotes in Word on Mac and iOS](https://support.microsoft.com/en-us/office/add-footnotes-and-endnotes-in-word-on-mac-and-ios-a58d1685-94f6-43f5-ba26-aa15aa62c6ed)
 
 - [Refer to the same footnote or endnote more than once](https://support.microsoft.com/en-us/office/refer-to-the-same-footnote-or-endnote-more-than-once-9925ad08-2593-49ac-842b-c0f55b94e137)
 
@@ -121,4 +119,3 @@ Follow the steps below:
      - Reference # 4: Book
 2. Replace all the numbered references in the document with the corresponding references using the *Citation* feature
 3. Insert an automatic table of contents in the end of the document.
-
