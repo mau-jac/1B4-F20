@@ -118,4 +118,4 @@ Follow the steps below:
      - Reference # 2,3,5,6: Website
      - Reference # 4: Book
 2. Replace all the numbered references in the document with the corresponding references using the *Citation* feature
-3. Insert an automatic table of contents in the end of the document.
+3. Insert an automatic *Bibliograpy* at the end of the document.
