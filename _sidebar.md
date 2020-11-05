@@ -3,6 +3,7 @@
 
 **Week 11**
 - [Footnotes & Bibliography](wk11/footnotes_bibliography.md)
+- [Comments & Changes](wk11/comments_changes.md)
 
 **Week 10**
 - [Intro to Word](wk10/intro-word.md)
