@@ -1,6 +1,10 @@
 **Home**
 - [About](/)
 
+**Week 12**
+- [Password Managers](wk12/passwords.md)
+- [Search Engines](wk12/search_engines.md)
+
 **Week 11**
 - [Footnotes & Bibliography](wk11/footnotes_bibliography.md)
 - [Comments & Changes](wk11/comments_changes.md)
