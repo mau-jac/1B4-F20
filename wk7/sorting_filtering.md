@@ -1,4 +1,4 @@
-# Sorting, Filtering & Conditional Formatting
+# Sorting & Filtering
 
 <br>
 
