@@ -136,3 +136,7 @@ For example:
 Reports present data from any table or query. in an **easy-to-read** (or print) format.
 
 It is possible to customize reports in order to make it visually appealing.
+
+<br>
+
+![Example of a Report in MS Access](https://lh4.googleusercontent.com/ECLBCbp7ZyoZ6DVTZt5eR1BLcCXKcO74-qOCq-4WW25I3_Kf21yaUZ2Rx5F29auciBQBWwFzEOlzpbIQ8UyGgw52Bl9WFnCBaq8QtAN48QbdVqTjxUbqRmvyIDBSOnhqw9kNwstVGBQ)
