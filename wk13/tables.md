@@ -156,7 +156,7 @@ To import data from an existing Excel sheet do the following:
 
 Follow the wizard to choose how to convert your data.
 
-Pay close attention to the following:
+**Pay close attention to the following:**
 
 1. Select if you will create a new table or append it to an existing table
 2. Carefully check the data type for each field
