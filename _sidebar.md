@@ -3,6 +3,7 @@
 
 **Week 14**
 - [Basic Forms](wk14/basic_forms.md)
+- [Queries](wk14/simple_queries.md)
 
 **Week 13**
 - [Intro to Access](wk13/intro-access.md)
