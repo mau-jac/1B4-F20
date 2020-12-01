@@ -24,6 +24,18 @@ In order to connect tables we need to link a key from one table to a field in an
 
 ![image-20201201143539405](assets/image-20201201143539405.png)
 
+## Forms for Linked Tables
+
+Creating a form for linked tables is similar to creating a form for single tables.
+
+1. Use the form wizard.
+
+2. Select fields from more than one table.
+
+   
+
+   ![image-20201201150029051](assets/image-20201201150029051.png)
+
 
 
 ## Exercises
