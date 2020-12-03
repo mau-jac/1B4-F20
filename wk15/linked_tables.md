@@ -42,7 +42,7 @@ Creating a form for linked tables is similar to creating a form for single table
 
 ### Exercise 1
 
-Refer to the database file Studen_Parking.accdb in Teams under week 15.
+Refer to the database file Student_Parking.accdb in Teams under week 15.
 
 1. Create a relationship between the *Parking Lots* table and the *Students* table so that:
 
@@ -63,5 +63,7 @@ Refer to the database file Studen_Parking.accdb in Teams under week 15.
 
 
 
+### Exercise 2
 
+Use the database from Exercise 1 (including the link between *Students* table and *Parking Lots* table) and generate a report that shows all the license plates allows to part on front of Buildings C and D
 
