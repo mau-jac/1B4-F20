@@ -65,5 +65,5 @@ Refer to the database file Student_Parking.accdb in Teams under week 15.
 
 ### Exercise 2
 
-Use the database from Exercise 1 (including the link between *Students* table and *Parking Lots* table) and generate a report that shows all the license plates allows to part on front of Buildings C and D
+Use the database from Exercise 1 (including the link between *Students* table and *Parking Lots* table) and generate a report that shows all the license plates allowed to part on front of Buildings C and D only.
 
